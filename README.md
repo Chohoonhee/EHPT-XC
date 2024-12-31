@@ -16,3 +16,10 @@ Please note that we require a (digitally) handwritten signature.
 
 **NOTE**: Please don't request write access to the template of the agreement sheet. Download the agreement sheet and fill it locally on your computer and send it to us.
 
+
+@inproceedings{cho2024benchmark,
+  title={A Benchmark Dataset for Event-Guided Human Pose Estimation and Tracking in Extreme Conditions},
+  author={Cho, Hoonhee and Kim, Taewoo and Jeong, Yuhwan and Yoon, Kuk-Jin},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2024}
+}
