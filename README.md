@@ -8,7 +8,7 @@ As a promising solution, bio-inspired event cameras exhibit robustness in extrem
 
 
 ## How to get the dataset?
-In order to obtain the EHPT-XC dataset, please fill out [this document](https://github.com/Chohoonhee/EHPT-XC/blob/main/usage_agreement.pdf) and send it to **gnsgnsgml[at]kaist[dot]ac[dot]kr** or **jeongyh98[at]kaist[dot]ac[dot]kr**. Please note that we require a (digitally) handwritten signature.
+In order to obtain the EHPT-XC dataset, please fill out [this document](https://github.com/Chohoonhee/EHPT-XC/blob/main/usage_agreement.pdf) and send it to **gnsgnsgml[at]kaist[dot]ac[dot]kr** or **jeongyh98[at]kaist[dot]ac[dot]kr** along with **your Google email address**. Please note that we require a (digitally) handwritten signature.
 
 **NOTE**: Please don't request write access to the template of the agreement sheet. Download the agreement sheet and fill it locally on your computer and send it to us.
 
