@@ -1,3 +1,5 @@
+<img src="imgs/data_sample.png" width="100%" height="100%">
+
 # EHPT-XC
 Official project page for "A Benchmark Dataset for Event-Guided Human Pose Estimation and Tracking in Extreme Conditions" (NeurIPS2024) \[[Paper](https://openreview.net/pdf?id=ZQy6dGlBay)\] 
 
